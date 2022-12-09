@@ -13,6 +13,7 @@ Improved version of BallistickEMU. The original is probably entirely written by 
 - Added !bluehead command. Gives you the original bluehead color and the spinner as on original stick arena. Requires 588 version of SA SWF client.
 - !fuzzyspinner, !builderspinner, !candycane, !heartsspinner are not simply just !fuzzy, !builder, !cane and !hearts.
 - Easier to read syntax help for color and spinner commands (no annoying black glitch with the <> characters)
+- Fixed stick_arena.php to work with PHP 7 and up.
 
 # Hints for those who want to continue improving the project
 
